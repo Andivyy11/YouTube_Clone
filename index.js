@@ -9,8 +9,8 @@ import authRoutes from './routes/auth.js'
 
 dotenv.config();
 const connect = ()=>{
-    // const mongoURI = process.env.MONGO;
-    mongoose.connect("mongodb+srv://andivyy2508:andi@atlascluster.rqmoj99.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster").then(()=> console.log("connected")).catch( err => console.log('error occured ',err) )
+    const mongoURI = process.env.MONGO;
+    mongoose.connect(mongoURI).then(()=> console.log("connected")).catch( err => console.log('error occured ',err) )
 }
 
 const app= express();
