@@ -1,7 +1,7 @@
 # YouTube Clone
 
 ## A Video Sharing Web App
-### Client - React , Styled-Componenets , Redux(state management)
+### Client - React , Styled-Componenets , Redux (State Management)
 ### Server - JavaScript , MongoDB
 
 ### Features 
