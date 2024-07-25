@@ -4,7 +4,7 @@
 ### Client - React , Styled-Componenets , Redux (State Management)
 ### Server - JavaScript , MongoDB
 
-### Features 
+## Features 
 ## User Authentication
 - Sign Up
 - Sign In
