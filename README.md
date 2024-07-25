@@ -12,7 +12,7 @@
 - Log Out
 - JWT Token
 
-## FireBase Storage
+## Firebase Storage
 - Upload thumbnail and video
 - Download thumbnail and video
   
