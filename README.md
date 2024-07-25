@@ -1,4 +1,5 @@
 # YouTube Clone
+![HomePage](https://imgur.com/a/sifVMUD)
 
 ## A Video Sharing Web App
 ### Client - React , Styled-Componenets , Redux (State Management)
